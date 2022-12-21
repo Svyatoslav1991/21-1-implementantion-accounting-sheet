@@ -1,0 +1,15 @@
+﻿  functions.cpp
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(23,14): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(23,32): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(50,14): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(58,15): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(58,34): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(67,29): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(68,27): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(92,29): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(93,29): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(94,29): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(95,27): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(124,12): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\functions.cpp(124,30): warning C4244: 'argument': conversion from 'int64_t' to 'const unsigned int', possible loss of data
+  24_5_1_implementantion_accounting_sheet.vcxproj -> C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\Debug\24_5_1_implementantion_accounting_sheet.exe

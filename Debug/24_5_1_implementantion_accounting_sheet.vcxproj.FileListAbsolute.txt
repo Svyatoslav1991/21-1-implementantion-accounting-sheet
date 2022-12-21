@@ -1,0 +1,2 @@
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\Debug\24_5_1_implementantion_accounting_sheet.exe
+C:\Users\Svyatoslav\Desktop\C++\skillbox_homework\24_5_1_implementantion_accounting_sheet\Debug\24_5_1_implementantion_accounting_sheet.pdb
